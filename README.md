@@ -2,12 +2,12 @@
 
 ## Task Overview
 
-### What You'll Learn
+### Learnings
 - Understand valuing fintech loan portfolios.
 - Analyze historical data for repayment percentages.
 - Forecast cash flows and portfolio value.
 
-### What You'll Do
+### Task
 - Create a valuation document.
 - Analyze historical data and compute repayment rates.
 - Forecast cash flows and determine the portfolio's present value.
